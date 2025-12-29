@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <img src="https://cdn3.emoji.gg/emojis/736775-red-check.gif" alt="Verified" style="width:30px; height:30px;"> About Me:
 work for money<br>money for everything ~
 
 
