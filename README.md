@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="https://i.imgur.com/kaoMHav.gif" alt="W" width="32" />
+  <img src="https://i.imgur.com/6GeJUbg.gif" alt="E" width="32" />
+  <img src="https://i.imgur.com/2U1wGUI.gif" alt="L" width="32" />
+  <img src="https://i.imgur.com/2ItrOqT.gif" alt="C" width="32" />
+  <img src="https://i.imgur.com/YUQprdB.gif" alt="O" width="32" />
+  <img src="https://i.imgur.com/aHh8e2l.gif" alt="M" width="32" />
+  <img src="https://i.imgur.com/6GeJUbg.gif" alt="E" width="32" />
+  <br>
+  <img src="https://cdn3.emoji.gg/emojis/70798-bearsquish.gif" alt="bubu-hi" width="36" />
+  <img src="https://i.imgur.com/FQkP6kp.gif" alt="T" width="32" />
+  <img src="https://i.imgur.com/YUQprdB.gif" alt="O" width="32" />
+  <img src="https://cdn3.emoji.gg/emojis/23724-unyel.gif" alt="bubu-reog" width="36" />
+  <br>
+  <img src="https://i.imgur.com/aHh8e2l.gif" alt="M" width="32" />
+  <img src="https://i.imgur.com/ggDGcOV.gif" alt="Y" width="32" />
+  <img src="https://i.imgur.com/LGieiNN.gif" alt="P" width="32" />
+  <img src="https://i.imgur.com/EFtSNhQ.gif" alt="R" width="32" />
+  <img src="https://i.imgur.com/YUQprdB.gif" alt="O" width="32" />
+  <img src="https://i.imgur.com/LVQltvT.gif" alt="F" width="32" />
+  <img src="https://i.imgur.com/mhFwpCl.gif" alt="I" width="32" />
+  <img src="https://i.imgur.com/2U1wGUI.gif" alt="L" width="32" />
+  <img src="https://i.imgur.com/6GeJUbg.gif" alt="E" width="32" />
+  
+</p>
+
 # <img src="https://cdn3.emoji.gg/emojis/87774-capylove.png" alt="capy" style="width:30px; height:30px;"> About Me:
 Name : Rama Rahmat <br>
 Gender : Male <br>
