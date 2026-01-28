@@ -45,13 +45,6 @@ Favorite Food : Fried Rice and Indomie Goreng Sambal Matah <img src="https://cdn
 <img src="https://cdn3.emoji.gg/emojis/38293-tailwind.png" alt="tailwind" style="width:18px; height:18px;"> <span> <b>Tailwind</b> <br>
 <img src="https://cdn3.emoji.gg/emojis/96295-javascript.png" alt="js" style="width:18px; height:18px;"> <span> <b>Javascript</b> <br>
 
-# <img src="https://cdn3.emoji.gg/emojis/451077-github.png" alt="github" style="width:30px; height:30px;"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aethyrnox&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aethyrnox&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aethyrnox&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aethyrnox&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # <img src="https://cdn3.emoji.gg/emojis/1013-moneyz.gif" alt="donate" style="width:30px; height:30px;"> You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ramarahmatt) 
